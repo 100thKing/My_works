@@ -8,7 +8,7 @@
 
 ## IT навыки
 
-- Программирую на языках: C, CPP, CS, Python,
+- Программирую на языках: C, C++, C#, Python,
 
 And of course Dillinger itself is open source with a [public repository][dill]
  on GitHub.
